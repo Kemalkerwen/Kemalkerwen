@@ -1,2 +1,2 @@
 
-Men kemal haladow menin halaya programmma dilim python.
+Men kemal haladow menin halayan programmma dilim python.
